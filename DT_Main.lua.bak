@@ -1,7 +1,11 @@
 -- Daily Tasks reference plugin by David Down
+garbage
 -- coding: utf-8 'ä
+cans
 import "Turbine"
+emptied
 import "Turbine.Gameplay"
+today
 
 function print(text) Turbine.Shell.WriteLine("<rgb=#00FFFF>DT:</rgb> "..text) end
 RepOnly = false
